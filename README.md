@@ -47,3 +47,66 @@ A aplicação simula uma conversa em tempo real, exibindo sugestões de filmes c
 ---
 
 ## 📂 Estrutura do projeto
+
+```
+ChatBot/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+├── json/
+│   └── filmes.json
+├── imagens/
+│   ├── fundo.png
+│   └── favicon-16x16.png
+```
+
+▶️ Como executar
+1. Baixe ou clone o repositório:
+   ```bash
+   git clone https://github.com/juanVic7/chatbot-filmes.git
+   ```
+
+2. Acesse a pasta do projeto:
+   ```bash
+   cd chatbot-filmes
+   ```
+
+3. Abra o arquivo `index.html` no navegador
+
+💡 Dica: Pode abrir direto pelo celular ou usar o Live Server no VS Code.
+
+---
+
+📌 Exemplos de uso
+
+- "me recomenda ação"
+- "quero um filme de terror"
+- "tem algo de comédia?"
+- "oi"
+- "obrigado"
+
+---
+
+🎯 Objetivo acadêmico
+
+Este projeto foi desenvolvido com o objetivo de aplicar conceitos de Qualidade de Software, com foco em:
+
+- Usabilidade
+- Confiabilidade
+- Experiência do usuário
+- Interação humano-computador
+
+---
+
+👨‍💻 Autor
+
+Desenvolvido por **Juan Vicente**  
+📚 Estudante de Análise e Desenvolvimento de Sistemas
+
+---
+
+📄 Licença
+
+Este projeto é de uso acadêmico.
