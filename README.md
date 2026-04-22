@@ -102,7 +102,7 @@ Este projeto foi desenvolvido com o objetivo de aplicar conceitos de Qualidade d
 
 👨‍💻 Autor
 
-Desenvolvido por **Juan Vicente**  
+Desenvolvido por **Juan Victor**  
 📚 Estudante de Análise e Desenvolvimento de Sistemas
 
 ---
