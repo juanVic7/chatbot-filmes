@@ -1,0 +1,312 @@
+﻿[
+  {
+    "nome": "Superman",
+    "generos": [
+      "Ação",
+      "Ficção"
+    ],
+    "ano": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Superman precisa reconciliar sua origem kryptoniana com sua vida como Clark Kent."
+  },
+  {
+    "nome": "John Wick: De Volta ao Jogo",
+    "generos": [
+      "Ação",
+      "Suspense"
+    ],
+    "ano": 2014,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+    "descricao": "Um assassino aposentado volta ao submundo para se vingar."
+  },
+  {
+    "nome": "Megatubarão",
+    "generos": [
+      "Ação",
+      "Ficção"
+    ],
+    "ano": 2018,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWZjYjgxMzEtYTE1MS00M2RlLWJjOTUtZDA5ODM2YWQ4Y2FhXkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Uma criatura pré-histórica gigante ameaça a vida no oceano."
+  },
+  {
+    "nome": "Batman: O Cavaleiro das Trevas",
+    "generos": [
+      "Ação",
+      "Ficção"
+    ],
+    "ano": 2008,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+    "descricao": "Batman enfrenta o caos causado pelo criminoso conhecido como Coringa."
+  },
+  {
+    "nome": "Bad Boys para Sempre",
+    "generos": [
+      "Ação",
+      "Comédia"
+    ],
+    "ano": 2020,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzM3ZTFmMTUtODAxNy00N2IxLWI2MGMtYTdmMDFhNmZkMDI3XkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Os detetives Mike Lowrey e Marcus Burnett retornam para mais uma missão perigosa."
+  },
+  {
+    "nome": "Creed 2",
+    "generos": [
+      "Ação",
+      "Drama"
+    ],
+    "ano": 2018,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTBmYTg3YTItZjUzYi00MGU2LThiNDUtMDA3NjNmMTFiYzZkXkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Adonis Creed enfrenta o filho do homem que matou seu pai."
+  },
+  {
+    "nome": "Jumanji",
+    "generos": [
+      "Aventura",
+      "Fantasia"
+    ],
+    "ano": 1995,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTFkMjFmODgtYzRiZi00NmQwLTliZWMtMzRhMWQ5ZmY3ZDExXkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Um jogo mágico traz perigos da selva para o mundo real."
+  },
+  {
+    "nome": "Zathura",
+    "generos": [
+      "Aventura",
+      "Ficção"
+    ],
+    "ano": 2005,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDMzZDZhMTQtYzJkNi00OTI2LThjNDUtN2I2N2JjZmYwMWM5XkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Dois irmãos são transportados para o espaço ao jogar um misterioso jogo."
+  },
+  {
+    "nome": "Interestelar",
+    "generos": [
+      "Aventura",
+      "Ficção"
+    ],
+    "ano": 2014,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Uma equipe de astronautas viaja através de um buraco de minhoca para salvar a humanidade."
+  },
+  {
+    "nome": "Planeta dos Macacos: O Confronto",
+    "generos": [
+      "Aventura",
+      "Ficção"
+    ],
+    "ano": 2014,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWNjYzQ4ZGItZTg1My00NTM2LTg1NDUtYThjOTQwMTYyNjU1XkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Humanos e macacos inteligentes entram em conflito pela sobrevivência."
+  },
+  {
+    "nome": "007: Sem Tempo para Morrer",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "ano": 2021,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGZiOGZhZDQtZmRkNy00ZmUzLTliMGEtZGU0NjExOGMxZDVkXkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "James Bond retorna à ação para enfrentar um inimigo perigoso."
+  },
+  {
+    "nome": "Django Livre",
+    "generos": [
+      "Drama",
+      "Faroeste"
+    ],
+    "ano": 2012,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX300.jpg",
+    "descricao": "Um escravo libertado busca resgatar sua esposa com ajuda de um caçador de recompensas."
+  },
+  {
+    "nome": "As Aventuras de Pi",
+    "generos": [
+      "Drama",
+      "Aventura"
+    ],
+    "ano": 2012,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_SX300.jpg",
+    "descricao": "Um jovem sobrevive no mar ao lado de um tigre após um naufrágio."
+  },
+  {
+    "nome": "1917",
+    "generos": [
+      "Drama",
+      "Guerra"
+    ],
+    "ano": 2019,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzkxZjg2NDQtMGVjMy00NWZkLTk0ZDEtZWE3NDYwYjAyMTg1XkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Dois soldados recebem uma missão impossível durante a Primeira Guerra Mundial."
+  },
+  {
+    "nome": "O Diabo de Cada Dia",
+    "generos": [
+      "Drama",
+      "Suspense"
+    ],
+    "ano": 2020,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmExOWUxZDMtZmM1ZS00NjQ4LWEwODAtY2E0N2Y1Y2MzZTkwXkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Histórias sombrias se cruzam em uma pequena cidade marcada pela violência."
+  },
+  {
+    "nome": "El Camino",
+    "generos": [
+      "Drama",
+      "Crime"
+    ],
+    "ano": 2019,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTYxMjI2YzUtODQ5Mi00M2JmLTlmNzItOTlkM2MyM2ExM2RlXkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Jesse Pinkman tenta escapar do passado após os eventos de Breaking Bad."
+  },
+  {
+    "nome": "Trem-Bala",
+    "generos": [
+      "Ação",
+      "Comédia"
+    ],
+    "ano": 2022,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODUyZjkxZDMtZGI3ZC00ZmEwLTgwMTUtYTU4OTQ5YjU4ZjRlXkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Assassinos se encontram em um trem-bala em alta velocidade."
+  },
+  {
+    "nome": "Todo Mundo em Pânico 3",
+    "generos": [
+      "Comédia",
+      "Terror"
+    ],
+    "ano": 2003,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE2NTIyMjg2OF5BMl5BanBnXkFtZTYwNDEyMTg3._V1_SX300.jpg",
+    "descricao": "Uma paródia de filmes de terror e ficção científica."
+  },
+  {
+    "nome": "Deadpool",
+    "generos": [
+      "Ação",
+      "Comédia"
+    ],
+    "ano": 2016,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY3ZWU5NGQtOTViNC00ZWVmLTliNjAtNzViNzlkZWQ4YzQ4XkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Um mercenário com humor ácido ganha poderes regenerativos."
+  },
+  {
+    "nome": "O Pequeno",
+    "generos": [
+      "Comédia",
+      "Família"
+    ],
+    "ano": 2006,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI0NTA3MjI3NV5BMl5BanBnXkFtZTcwNTI1ODYzMQ@@._V1_SX300.jpg",
+    "descricao": "Um homem descobre que o bebê que encontrou é um criminoso adulto disfarçado."
+  },
+  {
+    "nome": "Um Tira da Pesada",
+    "generos": [
+      "Comédia",
+      "Ação"
+    ],
+    "ano": 1984,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjU4OGM2MzctNGU3ZC00M2EzLThiN2ItOTlmN2FjODM0MzFhXkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Um policial de Detroit investiga um crime em Beverly Hills."
+  },
+  {
+    "nome": "Norbit",
+    "generos": [
+      "Comédia",
+      "Romance"
+    ],
+    "ano": 2007,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI4NDE4MjgyNV5BMl5BanBnXkFtZTcwMTQwODc0MQ@@._V1_SX300.jpg",
+    "descricao": "Um homem tímido tenta escapar de um casamento abusivo."
+  },
+  {
+    "nome": "Invocação do Mal",
+    "generos": [
+      "Terror",
+      "Suspense"
+    ],
+    "ano": 2013,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_SX300.jpg",
+    "descricao": "Investigadores paranormais enfrentam um caso aterrorizante."
+  },
+  {
+    "nome": "Corra!",
+    "generos": [
+      "Terror",
+      "Suspense"
+    ],
+    "ano": 2017,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_SX300.jpg",
+    "descricao": "Um jovem descobre segredos assustadores ao visitar a família da namorada."
+  },
+  {
+    "nome": "O Telefone Preto",
+    "generos": [
+      "Terror",
+      "Suspense"
+    ],
+    "ano": 2021,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjFhZTcxOTktMzllMS00MzIzLWJhODEtZDU5YTFkNzRjZWQyXkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Um garoto sequestrado recebe ligações misteriosas de vítimas anteriores."
+  },
+  {
+    "nome": "O Enigma de Outro Mundo",
+    "generos": [
+      "Terror",
+      "Ficção"
+    ],
+    "ano": 1982,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTA3NDU5MWEtNTk4Yy00ZDNkLThmZTQtMjU3ZGVhYzAyMzU4XkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Uma criatura alienígena ameaça uma base na Antártida."
+  },
+  {
+    "nome": "Vingadores: Ultimato",
+    "generos": [
+      "Ação",
+      "Ficção"
+    ],
+    "ano": 2019,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+    "descricao": "Os heróis restantes lutam para reverter o estalo de Thanos."
+  },
+  {
+    "nome": "E.T. - O Extraterrestre",
+    "generos": [
+      "Ficção",
+      "Aventura"
+    ],
+    "ano": 1982,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTNhNmY0YWMtMTczYi00MTA0LThhMmUtMTIxYzE0Y2QwMzRlXkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Um garoto faz amizade com um alienígena perdido na Terra."
+  },
+  {
+    "nome": "O Exterminador do Futuro",
+    "generos": [
+      "Ação",
+      "Ficção"
+    ],
+    "ano": 1984,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmE0YzIxM2QtMGNlMi00MjRmLWE3MWMtOWQzMGVjMmU0YTFmXkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Um ciborgue é enviado do futuro para assassinar Sarah Connor."
+  },
+  {
+    "nome": "MIB - Homens de Preto",
+    "generos": [
+      "Ficção",
+      "Comédia"
+    ],
+    "ano": 1997,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmQ0YTdhYzEtMjIxZC00MGFiLTlmNjktZmFlOWE2M2QxOTRhXkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Agentes secretos monitoram alienígenas vivendo na Terra."
+  },
+  {
+    "nome": "Matrix",
+    "generos": [
+      "Ficção",
+      "Ação"
+    ],
+    "ano": 1999,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_SX300.jpg",
+    "descricao": "Um hacker descobre que a realidade é uma simulação criada por máquinas."
+  }
+]
