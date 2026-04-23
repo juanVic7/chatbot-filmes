@@ -2,6 +2,11 @@
 
 Projeto desenvolvido para a disciplina de **Qualidade de Software**, com foco em **usabilidade** e **confiabilidade**.
 
+🌐 **Acesse online:**  
+https://juanvic7.github.io/chatbot-filmes/
+
+---
+
 ## 💡 Sobre o projeto
 
 O **CineBot** é um chatbot interativo que recomenda filmes com base no gênero informado pelo usuário.
