@@ -1,0 +1,2 @@
+Arquivo criado pelo RoboTerm!
+Teste de integração com a API REST do GitHub.
