@@ -115,5 +115,3 @@ Desenvolvido por **Juan Victor**
 📄 Licença
 
 Este projeto é de uso acadêmico.
-
-Integração com a API do GitHub realizada pelo RoboTerm.
